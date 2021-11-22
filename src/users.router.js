@@ -36,3 +36,4 @@ userRouter.get("/", async function (req, res, next) {
 
 
 module.exports = userRouter;
+module.exports.usersWithPhones = usersWithPhones;
