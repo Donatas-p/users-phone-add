@@ -1,0 +1,26 @@
+{
+  "name": "techtest",
+  "version": "1.0.0",
+  "description": "Technical Test",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzmeeks/techtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzmeeks/techtest/issues"
+  },
+  "homepage": "https://github.com/buzzmeeks/techtest#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
